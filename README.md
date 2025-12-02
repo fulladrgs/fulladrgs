@@ -9,19 +9,11 @@
 ### Glo
 *Roblox Hub*
 
-<a href="https://github.com/sinsly/Lynxus">
-  ill make a banner for this at some point i swear
+<a href="https://github.com/fulladrgs">
+  https://discord.gg/getglo
 </a>
 
 ---
-
-### m40fuscation  
-**luau obfuscator**
-
-<a href="https://github.com/sinsly/m40fuscation">
-  <img src="https://images-ext-1.discordapp.net/external/vYhdhnJCrFPDPfMRX8tSZN0ZP_x83auwHJ9izqso_Tw/https/repository-images.githubusercontent.com/1092036748/bf8f54be-fe5d-4a8e-8705-7b632185a657?format=webp&width=2514&height=860" width="600">
-</a>
-
 ---
 
 <p align="left">
