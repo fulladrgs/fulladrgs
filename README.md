@@ -7,7 +7,7 @@
 
 ---
 ### Glo
-**Roblox Hub*
+*Roblox Hub*
 
 <a href="https://github.com/sinsly/Lynxus">
   ill make a banner for this at some point i swear
@@ -25,5 +25,5 @@
 ---
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=sinsly&color=blue&style=flat-square">
+  <img src="https://komarev.com/ghpvc/?username=fulladrgs&color=blue&style=flat-square">
 </p>
