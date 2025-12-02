@@ -9,7 +9,7 @@
 ### Glo
 *Roblox Hub*
 
-<a href="https://github.com/fulladrgs">
+<a href="https://discord.gg/getglo">
   https://discord.gg/getglo
 </a>
 
