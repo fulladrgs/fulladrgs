@@ -10,7 +10,7 @@
 *Roblox Hub*
 
 <a href="https://discord.gg/getglo](https://discord.gg/getglo">
-  https://discord.gg/getglo
+  [https://discord.gg/getglo](https://discord.gg/pAMpQrYMgx)
 </a>
 
 ---
