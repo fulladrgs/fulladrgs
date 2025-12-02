@@ -1,13 +1,13 @@
-# sinsly
-- yes i make scripts to cheat on a kids' game
-- whole bunch of luau related shit plus random projects
+# Glo
+- Luau Developer
+- Discord ID : 1261505869418598461
 
 ## languages
 [![Langs](https://skillicons.dev/icons?i=lua,js,python,css,cpp,c)](https://skillicons.dev)
 
 ---
-### Lynxus  
-**roblox hub**
+### Glo
+**Roblox Hub*
 
 <a href="https://github.com/sinsly/Lynxus">
   ill make a banner for this at some point i swear
