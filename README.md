@@ -9,8 +9,8 @@
 ### Glo
 *Roblox Hub*
 
-<a href="https://discord.gg/getglo](https://discord.gg/getglo">
-  https://discord.gg/pAMpQrYMgx
+<a href="https://discord.gg/pAMpQrYMgx">
+  https://discord.gg/getglo
 </a>
 
 ---
