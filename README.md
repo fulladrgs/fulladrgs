@@ -3,7 +3,7 @@
 - Discord ID : 1261505869418598461
 
 ## languages
-[![Langs](https://skillicons.dev/icons?i=lua)](https://skillicons.dev)
+[![Langs](https://skillicons.dev/icons?i=lua,html)](https://skillicons.dev)
 
 ---
 ### Glo
